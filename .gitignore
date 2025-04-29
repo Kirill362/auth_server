@@ -1,0 +1,8 @@
+bin/
+pkg/
+*.exe
+*.test
+.env
+*.env.local
+.idea/
+*.iml
